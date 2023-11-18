@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&family=Gabarito&family=Geologica&family=Kumbh+Sans:wght@500&family=Lexend:wght@500&family=Outfit:wght@500&family=Poppins:wght@500&family=Roboto:wght@500&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+section {
+    /* font-family: 'Poppins', sans-serif;
+    font-family: 'Lexend', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Outfit', sans-serif; */
+    font-family: 'Gabarito', sans-serif;
+}
+section .fontroboto{
+    font-family: 'Roboto', sans-serif;
+}
+
+section .fontt{
+    font-family: 'Lexend', sans-serif;
+    /* font-weight: 600 !important; */
+    letter-spacing: -0.5px;
+}
+
+section .fontt .fontf{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300 !important;
+    border: 0;
+}
+    
